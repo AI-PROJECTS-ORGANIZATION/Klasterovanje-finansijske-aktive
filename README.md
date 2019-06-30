@@ -1,2 +1,2 @@
-# Klasterovanje-finansijske-aktive
+# Klasterovanje finansijske aktive
 Projekat iz predmeta osnovi računarske inteligencije
