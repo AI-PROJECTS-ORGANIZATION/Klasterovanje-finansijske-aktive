@@ -25,6 +25,8 @@ pip install numpy
 ```
 pip install scipy
 ```
-- George Washington
-- John Adams
-- Thomas Jefferson
+- matplotlib
+```
+pip install matplotlib
+```
+
