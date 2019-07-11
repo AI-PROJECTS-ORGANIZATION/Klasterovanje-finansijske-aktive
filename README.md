@@ -3,7 +3,7 @@ Projekat iz predmeta osnovi računarske inteligencije
 
 Za pokretanje projekta potrebno je obezbediti:
 
-1. Stabilnu internet konekcija kako bi se omogucilo prikupljanje podataka preko berzanskog API-ja
+1. Stabilnu internet konekciju kako bi se omogućilo prikupljanje podataka preko berzanskog API-ja
 
 2. Formirati Python Virtual Environment:
 ```
@@ -29,4 +29,13 @@ pip install scipy
 ```
 pip install matplotlib
 ```
+- joblib
+```
+pip install joblib
+```
+- scikit-learn
+```
+pip install scikit-learn
+```
+
 
