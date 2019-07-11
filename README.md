@@ -17,12 +17,14 @@ virtualenv naziv_okruzenja
 
 4. Artificial intelligence (AI), Machine learning (ML) i Data science (DS) biblioteke koje se instaliraju u prethodno formiranom okruženju:
 
-- sklearn
+- numpy 
 ```
-pip install virtualenv
-virtualenv naziv_okruzenja
+pip install numpy
 ```
-- notebook
+- scipy
+```
+pip install scipy
+```
 - George Washington
 - John Adams
 - Thomas Jefferson
