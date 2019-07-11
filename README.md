@@ -37,5 +37,9 @@ pip install joblib
 ```
 pip install scikit-learn
 ```
+- pandas
+```
+pip install pandas
+```
 
 
