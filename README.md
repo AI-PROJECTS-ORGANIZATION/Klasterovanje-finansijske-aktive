@@ -45,5 +45,9 @@ pip install pandas
 ```
 pip3 install jupyter
 ```
+- pandas-datareader
+```
+pip install pandas-datareader
+```
 
 
