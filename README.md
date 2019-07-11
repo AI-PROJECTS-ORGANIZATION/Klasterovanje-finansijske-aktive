@@ -41,5 +41,9 @@ pip install scikit-learn
 ```
 pip install pandas
 ```
+- Jupyter Notebook
+```
+pip3 install jupyter
+```
 
 
